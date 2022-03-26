@@ -1,1 +1,1 @@
-# hw--currency-calc
+# hw--money-calculator
